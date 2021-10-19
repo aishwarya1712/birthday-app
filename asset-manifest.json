@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/birthday-app/static/css/main.5739ad41.chunk.css",
+    "main.js": "/birthday-app/static/js/main.95f0bd02.chunk.js",
+    "main.js.map": "/birthday-app/static/js/main.95f0bd02.chunk.js.map",
+    "runtime-main.js": "/birthday-app/static/js/runtime-main.48c37b79.js",
+    "runtime-main.js.map": "/birthday-app/static/js/runtime-main.48c37b79.js.map",
+    "static/js/2.5f1288b6.chunk.js": "/birthday-app/static/js/2.5f1288b6.chunk.js",
+    "static/js/2.5f1288b6.chunk.js.map": "/birthday-app/static/js/2.5f1288b6.chunk.js.map",
+    "static/js/3.b3195c1f.chunk.js": "/birthday-app/static/js/3.b3195c1f.chunk.js",
+    "static/js/3.b3195c1f.chunk.js.map": "/birthday-app/static/js/3.b3195c1f.chunk.js.map",
+    "index.html": "/birthday-app/index.html",
+    "static/css/main.5739ad41.chunk.css.map": "/birthday-app/static/css/main.5739ad41.chunk.css.map",
+    "static/js/2.5f1288b6.chunk.js.LICENSE.txt": "/birthday-app/static/js/2.5f1288b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/birthday-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48c37b79.js",
+    "static/js/2.5f1288b6.chunk.js",
+    "static/css/main.5739ad41.chunk.css",
+    "static/js/main.95f0bd02.chunk.js"
+  ]
+}
